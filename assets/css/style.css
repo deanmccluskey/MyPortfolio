@@ -18,10 +18,11 @@ header {
 }
 
 h1 {
-    background-color: purple;
-    color: lavender;
+    color: gold;
     font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 60px;
     text-align: center;
+    margin-top: 40px;
     padding: 30px;
     float: left;
 }
@@ -33,7 +34,7 @@ nav {
 }
 
 nav a {
-    color: white;
+    color: gold;
 }
 
 .container {
@@ -56,7 +57,7 @@ nav a {
 
 h2 {
     background-color: lavender;
-    color: purple;
+    color: navy;
     font-family: 'Georgia', Times, Times New Roman, serif;
     text-align: center;
     padding: 20px;
@@ -96,9 +97,13 @@ h2 {
 
 }
 
+/* #contact-form {
+    float: left;
+} */
+
 footer {
-    background-color: purple;
-    color: white;
+    background-color: navy;
+    color: gold;
     font-size: 15px;
     text-align: center;
     border-top: 3px solid grey;
@@ -107,6 +112,6 @@ footer {
 }
 
 #myname {
-    color: white;
+    color: gold;
 }
 
