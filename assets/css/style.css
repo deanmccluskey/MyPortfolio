@@ -31,6 +31,7 @@ nav {
    margin-top: 300px;
     font-size: 20px;
     float: right;
+    position: static;
 }
 
 nav a {
@@ -67,6 +68,10 @@ h2 {
 .about {
     margin-top: 20px;
     padding-bottom: 40px;
+}
+
+h3 {
+    color: navy;
 }
 
 #shades {
